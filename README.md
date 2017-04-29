@@ -2,6 +2,9 @@
 
 This is the code for the implementation of Gillespie Algorithm (GA) for the SIS model. For optimized versions, see links below. This code is part of the article "[Optimized Gillespie algorithms for the simulation of Markovian epidemic processes on large and heterogeneous networks](http://wesleycota.com/)"
 
+[![license](https://img.shields.io/badge/licence-GPLv3-brightgreen.svg)](http://choosealicense.com/licenses/gpl-3.0/)
+[![language](https://img.shields.io/badge/built%20with-Fortran-blue.svg)](https://gcc.gnu.org/fortran/)
+
 ### GA Fortran implementation
 
 ## Optimized versions
